@@ -39,11 +39,11 @@ taxonomies:
     - id: discoverlife
       enabled: true
       name: Discover Life Taxonomy
-    - id: batnames
-      enabled: false
-      name: Bat Names 
+    - id: plazi
+      enabled: true
+      name: Plazi 
     - id: col
-      enabled: false
+      enabled: true
       name: Catalogue of Life
     - id: gbif
       enabled: false
